@@ -1,0 +1,4 @@
+参考github上Brain2STDPMNIST-master项目
+修改部分：
+1.数据部分：下载mnist.rar文件，解压每个小文件
+2.文件路径：'data/'
