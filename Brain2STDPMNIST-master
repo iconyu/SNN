@@ -2,3 +2,5 @@
 修改部分：
 1.数据部分：下载mnist.rar文件，解压每个小文件
 2.文件路径：'data/'
+
+注意部分：brain和brain2区别很大，brain2似乎不支持Python3,只支持python2。需要注意python版本和windows版本。
